@@ -41,8 +41,16 @@ switch (paymentMethod) {
 
 
 document.getElementById("container").innerHTML = `
-<h1>SUPERMART Receipt</h1>
 
+<div class="store-info">
+    <h1>SUPERMART</h1>
+    <p class="subtitle">Official Sales Receipt</p>
+    <h5>Lagos, Nigeria</h5>
+    <h5>Receipt No: 0001</h5>
+    <h5>Date: July 15, 2026</h5>
+</div>
+
+<hr>
 <p><strong>Customer</strong><span>${customerName}</span></p>
 
 <h2>Items</h2>
@@ -51,8 +59,9 @@ document.getElementById("container").innerHTML = `
 <p><span>Bread</span><span>₦${bread}</span></p>
 <p><span>Milk</span><span>₦${milk}</span></p>
 <p><span>Eggs</span><span>₦${eggs}</span></p>
+<hr>
 
-<h2>Summary</h2>
+<h2>Payment Summary</h2>
 
 <p><span>Subtotal</span><span>₦${totalBill}</span></p>
 <p><span>VAT</span><span>₦${vat}</span></p>
@@ -62,7 +71,8 @@ document.getElementById("container").innerHTML = `
     <span>Total</span>
     <span>₦${total}</span>
 </p>
-
+<hr>
+<p><strong>Cashier</strong><span>Aishat</span></p>
 <p><strong>Payment</strong><span>${message}</span></p>
 
 <p class="thank-you">
