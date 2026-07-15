@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student information Card</title>
+    <link rel="stylesheet" href="./student.css">
+</head>
+
+<body>
+         <div class="card">
+             <h5 class="card-title">Student information</h5>
+            <div class="cardbody">
+                <button class="btn" onclick="showInfo()">Show Information</button>
+                <button class="btn" onclick="hideInfo()">Hide Information</button>
+            </div>
+            <div id="infoText">
+                <p id="name"></p>
+                <p id="age"></p>
+                <p id="school"></p>
+                <p id="department"></p>
+                <p id="level"></p>
+            </div>
+        </div>
+</body>
+<script>
+    let studentinfo = {
+        Name: "Aishat Bakare",
+        Age: 20,
+        School: "Bowen University",
+        Department: "Computerscience",
+        Level: "400 Level"
+    };
+    function showInfo() {
+            document.getElementById('name').textContent = `Name: ${studentinfo.Name}`;
+            document.getElementById('age').textContent = `Age: ${studentinfo.Age}`;
+            document.getElementById('school').textContent = `School: ${studentinfo.School}`;
+            document.getElementById('department').textContent = `Department: ${studentinfo.Department}`;
+            document.getElementById('level').textContent = `Level: ${studentinfo.Level}`;
+    }
+
+    function hideInfo() {
+    document.getElementById("name").textContent = "";
+    document.getElementById("age").textContent = "";
+    document.getElementById("school").textContent = "";
+    document.getElementById("department").textContent = "";
+    document.getElementById("level").textContent = "";
+}
+    
+</script>
+
+</html>
