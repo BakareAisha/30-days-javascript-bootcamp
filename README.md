@@ -24,11 +24,11 @@ This repository documents my journey of learning JavaScript from the fundamental
 |-----|---------|--------|
 | 01 | Student Information Card | ✅ Completed |
 | 02 | Student Grade Calculator | ✅ Completed |
-| 03 | Admission Eligibility Checker | ⏳ Coming Soon |
-| 04 | ATM Menu | ⏳ Coming Soon |
-| 05 | Multiplication Table Generator | ⏳ Coming Soon |
-| 06 | Pattern Printer | ⏳ Coming Soon |
-| 07 | Calculator Functions | ⏳ Coming Soon |
+| 03 | Student Grade Calculator | ✅ Completed|
+| 04 | ATM Menu system | ✅ Completed |
+| 05 | Supermarket Checkout system | ✅ Completed |
+| 06 | Number Counter| ✅ Completed |
+| 07 | Mini Calendar | ✅ Completed |
 | ... | ... | ... |
 | 30 | Final JavaScript Project | ⏳ Coming Soon |
 
