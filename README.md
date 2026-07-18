@@ -40,7 +40,7 @@ This repository documents my journey of learning JavaScript from the fundamental
 ├── README.md
 ├── Day-01-Student-Information-Card/
 ├── Day-02-Student-Grade-Calculator/
-├── Day-03-Admission-Eligibility-Checker/
+├── Day-03-Student Grade Calculator/
 └── ...
 ```
 
