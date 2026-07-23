@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 25</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="card">
+    <h1> Book LIbrary Manager</h1>
+    <p class="subtitle">Manage today's customer Books</p>
+
+    <input
+        type="text"
+        id="bookRequest"
+        placeholder="Enter Book name">
+    <input
+        type="text"
+        id="authorRequest"
+        placeholder="Enter author's name">
+
+    <button class="add-btn" onclick="submitBook()">
+        Add Book
+    </button>
+
+    <div id="bookList"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
