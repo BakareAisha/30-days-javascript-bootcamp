@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background: #f5f7fb;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    padding: 40px 20px;
+}
+
+.container {
+    width: 700px;
+    background: #ffffff;
+    border-radius: 18px;
+    padding: 30px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+}
+
+h1 {
+    text-align: center;
+    color: #2c3e50;
+    margin-bottom: 8px;
+}
+
+.subtitle {
+    text-align: center;
+    color: #7f8c8d;
+    margin-bottom: 25px;
+}
+
+.input-group {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 30px;
+}
+
+input {
+    flex: 1;
+    padding: 14px;
+    border: 1px solid #dcdfe6;
+    border-radius: 10px;
+    font-size: 16px;
+    outline: none;
+    transition: 0.3s;
+}
+
+input:focus {
+    border-color: #3498db;
+}
+
+.add-btn {
+    padding: 14px 22px;
+    border: none;
+    border-radius: 10px;
+    background: #3498db;
+    color: white;
+    cursor: pointer;
+    font-size: 15px;
+    transition: 0.3s;
+}
+
+.add-btn:hover {
+    background: #2980b9;
+}
+
+.item {
+    background: #fafafa;
+    border: 1px solid #ececec;
+    border-radius: 14px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.item h3 {
+    color: #2c3e50;
+    margin-bottom: 15px;
+}
+
+.item p {
+    margin: 8px 0;
+    color: #555;
+}
+
+.status {
+    display: inline-block;
+    margin: 15px 0;
+    padding: 8px 16px;
+    background: #fff3cd;
+    color: #856404;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.item button {
+    width: 100%;
+    border: none;
+    border-radius: 8px;
+    padding: 12px;
+    margin-top: 10px;
+    color: white;
+    cursor: pointer;
+    font-size: 15px;
+    transition: 0.3s;
+}
+
+.item button:nth-child(6) {
+    background: #f39c12;
+}
+
+.item button:nth-child(6):hover {
+    background: #d68910;
+}
+
+.item button:nth-child(7) {
+    background: #27ae60;
+}
+
+.item button:nth-child(7):hover {
+    background: #1e8449;
+}
+
+.item button:nth-child(8) {
+    background: #e74c3c;
+}
+
+.item button:nth-child(8):hover {
+    background: #c0392b;
+}
