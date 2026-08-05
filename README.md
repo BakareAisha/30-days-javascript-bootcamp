@@ -72,4 +72,4 @@ Aspiring Software Engineer | JavaScript Learner
 
 ---
 
-⭐ Thanks for visiting my repository! Feel free to follow my progress as I complete each day's challenge.
+ Thanks for visiting my repository! Feel free to follow my progress as I complete each day's challenge.
