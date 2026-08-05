@@ -1,10 +1,10 @@
 #  Day 15 - Hospital Emergency Queue
 
-## 📖 Project Overview
+## Project Overview
 
 This project introduces two additional JavaScript array methods: `unshift()` and `shift()`. It simulates a hospital emergency queue where an emergency patient is added to the front of the waiting list and patients are displayed dynamically using a `for` loop.
 
-## ✨ Features
+##  Features
 
 - Stores patients in a JavaScript array
 - Adds an emergency patient to the beginning of the queue using `unshift()`
@@ -12,7 +12,7 @@ This project introduces two additional JavaScript array methods: `unshift()` and
 - Displays the patient queue dynamically using a `for` loop
 - Automatically numbers each patient
 
-## 🧠 What I Learned
+##  What I Learned
 
 - How `unshift()` adds an item to the beginning of an array
 - How `shift()` removes the first item from an array
@@ -21,13 +21,13 @@ This project introduces two additional JavaScript array methods: `unshift()` and
 - How to loop through arrays using `.length`
 - How to generate HTML dynamically with `output +=`
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (ES6)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Day-15-Hospital-Emergency-Queue/
@@ -37,7 +37,7 @@ Day-15-Hospital-Emergency-Queue/
 │── README.md
 ```
 
-## 🎯 Skills Practiced
+##  Skills Practiced
 
 - Arrays
 - Array Methods (`shift()`, `unshift()`)
@@ -46,10 +46,10 @@ Day-15-Hospital-Emergency-Queue/
 - DOM Manipulation
 - Dynamic HTML Generation
 
-## 📸 Sample Output
+##  Sample Output
 
 ```
-🏥 Hospital Emergency Queue
+ Hospital Emergency Queue
 
 1. Emergency Patient
 2. John
@@ -61,6 +61,6 @@ Day-15-Hospital-Emergency-Queue/
 
 ---
 
-### 🚀 Part of My 30 Days JavaScript Bootcamp
+###  Part of My 30 Days JavaScript Bootcamp
 
 **Day 15 Complete ✅**

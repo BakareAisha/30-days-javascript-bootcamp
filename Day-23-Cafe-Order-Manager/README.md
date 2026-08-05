@@ -1,10 +1,10 @@
-# ☕ Day 23 - Café Order Manager
+#  Day 23 - Café Order Manager
 
-## 📖 Project Overview
+##  Project Overview
 
 This project is a simple Café Order Manager that allows users to add and remove drink orders. Each order is stored as an object containing information such as the drink name, size, date added, and order status.
 
-## ✨ Features
+##  Features
 
 - Add a new café order
 - Prevent empty submissions
@@ -13,7 +13,7 @@ This project is a simple Café Order Manager that allows users to add and remove
 - Remove any order from the list
 - Automatically update the displayed list after adding or removing an order
 
-## 🧠 What I Learned
+##  What I Learned
 
 - Using `splice()` to remove items from an array
 - Passing values to functions using parameters
@@ -22,13 +22,13 @@ This project is a simple Café Order Manager that allows users to add and remove
 - Updating the DOM dynamically with `innerHTML`
 - Building interactive applications with JavaScript
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (ES6)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Day-23-Cafe-Order-Manager/
@@ -38,7 +38,7 @@ Day-23-Cafe-Order-Manager/
 │── README.md
 ```
 
-## 🚀 Skills Practiced
+##  Skills Practiced
 
 - Arrays
 - Objects
@@ -49,10 +49,10 @@ Day-23-Cafe-Order-Manager/
 - `splice()`
 - DOM Manipulation
 
-## 📸 Sample Output
+##  Sample Output
 
 ```
-☕ Café One
+ Café One
 
 Order 1
 Drink: Latte
@@ -63,6 +63,6 @@ Status: Order Placed
 [Remove]
 ```
 
-## 🎯 Milestone
+##  Milestone
 
 This project introduced deleting items from an array using `splice()` and reinforced the use of reusable functions to keep code organized and maintainable.

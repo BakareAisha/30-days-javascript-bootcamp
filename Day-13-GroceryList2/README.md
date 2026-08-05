@@ -1,10 +1,10 @@
-# 🛒 Day 13 - Dynamic Grocery Shopping List
+#  Day 13 - Dynamic Grocery Shopping List
 
-## 📖 Project Overview
+##  Project Overview
 
 This project builds a dynamic grocery shopping list using JavaScript arrays and loops. Instead of displaying each grocery item manually, a `for` loop automatically generates the list from an array, making the code cleaner, reusable, and easier to maintain.
 
-## ✨ Features
+##  Features
 
 - Stores grocery items in a JavaScript array
 - Uses a `for` loop to display all items automatically
@@ -12,7 +12,7 @@ This project builds a dynamic grocery shopping list using JavaScript arrays and 
 - Updates the webpage using `innerHTML`
 - Clean and responsive shopping list design
 
-## 🧠 What I Learned
+##  What I Learned
 
 - How to combine arrays and loops
 - Using `array.length` to determine the number of items
@@ -21,13 +21,13 @@ This project builds a dynamic grocery shopping list using JavaScript arrays and 
 - Displaying generated HTML with `innerHTML`
 - Writing cleaner code by avoiding repetition
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (ES6)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Day-13-Dynamic-Grocery-List/
@@ -37,7 +37,7 @@ Day-13-Dynamic-Grocery-List/
 │── README.md
 ```
 
-## 🎯 Skills Practiced
+##  Skills Practiced
 
 - Arrays
 - For Loops
@@ -47,10 +47,9 @@ Day-13-Dynamic-Grocery-List/
 - DOM Manipulation
 - Dynamic HTML Generation
 
-## 📸 Output
+##  Output
 
-```
-🛒 Grocery Shopping List
+ Grocery Shopping List
 
 1. Rice
 2. Bread
@@ -62,6 +61,6 @@ Day-13-Dynamic-Grocery-List/
 
 ---
 
-### 🚀 Part of My 30 Days JavaScript Bootcamp
+###  Part of My 30 Days JavaScript Bootcamp
 
 **Day 13 Complete ✅**

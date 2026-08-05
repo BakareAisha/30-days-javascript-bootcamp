@@ -1,10 +1,10 @@
-# 🛒 Day 5 - Supermarket Receipt Generator
+#  Day 5 - Supermarket Receipt Generator
 
-## 📖 Project Overview
+##  Project Overview
 
 This project simulates a supermarket receipt using JavaScript. It calculates the subtotal, VAT, total amount, determines discount eligibility, and displays the selected payment method. The receipt is generated dynamically and styled to resemble a real shopping receipt.
 
-## ✨ Features
+##  Features
 
 - Displays customer information
 - Calculates subtotal automatically
@@ -15,7 +15,7 @@ This project simulates a supermarket receipt using JavaScript. It calculates the
 - Generates a professional-looking receipt dynamically
 - Styled with CSS to resemble a standard receipt
 
-## 🧠 What I Learned
+##  What I Learned
 
 - Variables and arithmetic operators
 - Calculating VAT and totals
@@ -25,13 +25,13 @@ This project simulates a supermarket receipt using JavaScript. It calculates the
 - Displaying dynamic content with `innerHTML`
 - Structuring a real-world JavaScript project
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (ES6)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Day-05-Supermarket-Receipt/
@@ -41,7 +41,7 @@ Day-05-Supermarket-Receipt/
 │── README.md
 ```
 
-## 📸 Preview
+##  Preview
 
 A professional supermarket receipt displaying:
 
@@ -54,7 +54,7 @@ A professional supermarket receipt displaying:
 - Payment method
 - Final total
 
-## 🎯 Skills Practiced
+##  Skills Practiced
 
 - Variables
 - Arithmetic Operators
@@ -66,4 +66,4 @@ A professional supermarket receipt displaying:
 
 ---
 
-### 🚀 Part of My **30 Days JavaScript Bootcamp**
+###  Part of My **30 Days JavaScript Bootcamp**

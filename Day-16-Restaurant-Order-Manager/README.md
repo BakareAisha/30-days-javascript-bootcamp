@@ -1,10 +1,10 @@
-# 🍽️ Day 16 - Restaurant Order Manager (Review Challenge)
+#  Day 16 - Restaurant Order Manager (Review Challenge)
 
-## 📖 Project Overview
+##  Project Overview
 
 This project is a review challenge that combines everything learned from Days 11–15. It simulates a simple restaurant ordering system where orders can be added, removed, prioritized, and displayed dynamically using JavaScript.
 
-## ✨ Features
+##  Features
 
 - Stores restaurant orders in a JavaScript array
 - Adds a new order using `push()`
@@ -14,7 +14,7 @@ This project is a review challenge that combines everything learned from Days 11
 - Displays all current orders dynamically with a `for` loop
 - Uses a function to organize and display the order list
 
-## 🧠 What I Learned
+##  What I Learned
 
 - Creating and calling functions
 - Using arrays to store multiple values
@@ -27,13 +27,13 @@ This project is a review challenge that combines everything learned from Days 11
 - Generating HTML dynamically with `output +=`
 - Updating the webpage using `innerHTML`
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (ES6)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Day-16-Restaurant-Order-Manager/
@@ -43,7 +43,7 @@ Day-16-Restaurant-Order-Manager/
 │── README.md
 ```
 
-## 🎯 Skills Practiced
+##  Skills Practiced
 
 - Functions
 - Function Calls
@@ -54,10 +54,10 @@ Day-16-Restaurant-Order-Manager/
 - DOM Manipulation
 - Dynamic HTML Generation
 
-## 📸 Sample Output
+##  Sample Output
 
 ```
-🍽️ Restaurant Order Manager
+ Restaurant Order Manager
 
 1. Jollof Rice
 2. Chicken
@@ -68,7 +68,7 @@ Although new orders were added and removed during the program, the final display
 
 ---
 
-## 🚀 Part of My 30 Days JavaScript Bootcamp
+##  Part of My 30 Days JavaScript Bootcamp
 
 **Day 16 Complete ✅**
 

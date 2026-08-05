@@ -1,10 +1,10 @@
-# 💰 Day 9 - Daily Expense Summary
+#  Day 9 - Daily Expense Summary
 
-## 📖 Project Overview
+##  Project Overview
 
 This project demonstrates how to use JavaScript functions to organize code by displaying a daily expense summary. The application calculates the total expenses and dynamically displays the results on the webpage.
 
-## ✨ Features
+##  Features
 
 - Displays multiple daily expenses
 - Calculates the total amount spent
@@ -12,7 +12,7 @@ This project demonstrates how to use JavaScript functions to organize code by di
 - Dynamically generates HTML with JavaScript
 - Clean and responsive design with CSS
 
-## 🧠 What I Learned
+##  What I Learned
 
 - Creating functions
 - Calling functions
@@ -21,13 +21,13 @@ This project demonstrates how to use JavaScript functions to organize code by di
 - Using template literals with `innerHTML`
 - Organizing JavaScript into reusable blocks
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (ES6)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Day-09-Daily-Expense-Summary/
@@ -37,7 +37,7 @@ Day-09-Daily-Expense-Summary/
 │── README.md
 ```
 
-## 🎯 Skills Practiced
+##  Skills Practiced
 
 - Functions
 - Variables
@@ -47,4 +47,4 @@ Day-09-Daily-Expense-Summary/
 
 ---
 
-### 🚀 Part of My **30 Days JavaScript Bootcamp**
+###  Part of My **30 Days JavaScript Bootcamp**

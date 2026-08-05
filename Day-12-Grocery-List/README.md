@@ -1,17 +1,17 @@
-# 🛒 Day 12 - Grocery Shopping List
+#  Day 12 - Grocery Shopping List
 
-## 📖 Project Overview
+##  Project Overview
 
 This project introduces JavaScript arrays by creating a simple grocery shopping list. Items are stored inside an array and displayed on the webpage using their index positions.
 
-## ✨ Features
+##  Features
 
 - Stores multiple grocery items in a single array
 - Displays each item using its array index
 - Updates the webpage dynamically with JavaScript
 - Uses a clean shopping list layout
 
-## 🧠 What I Learned
+##  What I Learned
 
 - What an array is
 - How to create an array using `[]`
@@ -19,13 +19,13 @@ This project introduces JavaScript arrays by creating a simple grocery shopping 
 - That arrays start counting from **0**
 - How to display array data using `innerHTML`
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (ES6)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Day-12-Grocery-List/
@@ -35,7 +35,7 @@ Day-12-Grocery-List/
 │── README.md
 ```
 
-## 🎯 Skills Practiced
+##  Skills Practiced
 
 - Arrays
 - Variables
@@ -45,4 +45,4 @@ Day-12-Grocery-List/
 
 ---
 
-### 🚀 Part of My 30 Days JavaScript Bootcamp
+###  Part of My 30 Days JavaScript Bootcamp

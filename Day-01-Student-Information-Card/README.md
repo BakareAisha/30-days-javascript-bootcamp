@@ -1,6 +1,6 @@
 # Day 1 - Student Information Card
 
-## 📖 Overview
+##  Overview
 
 This project is the first project of my **30 Days of JavaScript Bootcamp**.
 
@@ -8,7 +8,7 @@ The Student Information Card displays a student's personal information when the 
 
 The project uses JavaScript to interact with HTML elements and update content dynamically on the webpage.
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 In this project, I practiced:
 
@@ -19,20 +19,20 @@ In this project, I practiced:
 - Updating HTML content using JavaScript
 - Using template literals
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 
-## ✨ Features
+##  Features
 
 - Displays student information on button click
 - Hides student information on button click
 - Uses a clean card layout
 - Dynamically updates webpage content using JavaScript
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Day-01-Student-Information-Card/
@@ -42,6 +42,6 @@ Day-01-Student-Information-Card/
 └── README.md
 ```
 
-## 💡 What I Learned
+##  What I Learned
 
 This project helped me understand how JavaScript can interact with HTML elements. I learned how to store information inside an object, create functions, and use the DOM to display and remove content from a webpage.

@@ -1,10 +1,10 @@
-# 🍽️ Day 10 - Restaurant Bill Generator
+#  Day 10 - Restaurant Bill Generator
 
-## 📖 Project Overview
+##  Project Overview
 
 This project demonstrates how to use **function parameters** in JavaScript to build a restaurant bill. Instead of hardcoding values inside the function, customer details and menu prices are passed into the function as arguments, making the code reusable for different customers.
 
-## ✨ Features
+##  Features
 
 - Accepts customer information using function parameters
 - Displays ordered food items and prices
@@ -12,7 +12,7 @@ This project demonstrates how to use **function parameters** in JavaScript to bu
 - Generates the bill dynamically with JavaScript
 - Clean and responsive restaurant bill design using CSS
 
-## 🧠 What I Learned
+##  What I Learned
 
 - Creating functions with parameters
 - Passing arguments into functions
@@ -21,13 +21,13 @@ This project demonstrates how to use **function parameters** in JavaScript to bu
 - Using template literals with `innerHTML`
 - Building reusable JavaScript code
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (ES6)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Day-10-Restaurant-Bill/
@@ -37,19 +37,19 @@ Day-10-Restaurant-Bill/
 │── README.md
 ```
 
-## 📸 Preview
+##  Preview
 
 The application displays:
 
-- 🍽️ Restaurant name
-- 👤 Customer name
-- 🍚 Jollof Rice price
-- 🍗 Chicken price
-- 🥤 Drink price
-- 💰 Total bill
-- ❤️ Thank you message
+-  Restaurant name
+-  Customer name
+-  Jollof Rice price
+-  Chicken price
+-  Drink price
+-  Total bill
+-  Thank you message
 
-## 🎯 Skills Practiced
+##  Skills Practiced
 
 - Functions
 - Function Parameters
@@ -61,4 +61,4 @@ The application displays:
 
 ---
 
-### 🚀 Part of My **30 Days JavaScript Bootcamp**
+###  Part of My **30 Days JavaScript Bootcamp**

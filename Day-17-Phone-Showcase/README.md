@@ -1,10 +1,10 @@
-# 📱 Day 17 - Phone Showcase (JavaScript Objects)
+#  Day 17 - Phone Showcase (JavaScript Objects)
 
-## 📖 Project Overview
+##  Project Overview
 
 This project introduces **JavaScript Objects**, one of the most important data structures in JavaScript. Instead of storing related information in separate variables or arrays, this project groups phone details into a single object and displays them dynamically on the webpage.
 
-## ✨ Features
+##  Features
 
 - Creates a phone object with multiple properties
 - Displays phone details dynamically using object properties
@@ -12,7 +12,7 @@ This project introduces **JavaScript Objects**, one of the most important data s
 - Presents the information in a modern product card UI
 - Formats the phone price for display
 
-## 🧠 What I Learned
+##  What I Learned
 
 - What a JavaScript object is
 - How to create an object using curly braces `{}`
@@ -21,13 +21,13 @@ This project introduces **JavaScript Objects**, one of the most important data s
 - How to display object data with template literals
 - How to update a webpage dynamically using `innerHTML`
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (ES6)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Day-17-Phone-Showcase/
@@ -37,7 +37,7 @@ Day-17-Phone-Showcase/
 │── README.md
 ```
 
-## 📱 Object Example
+##  Object Example
 
 ```javascript
 let phone = {
@@ -49,7 +49,7 @@ let phone = {
 };
 ```
 
-## 🎯 Skills Practiced
+##  Skills Practiced
 
 - JavaScript Objects
 - Object Properties
@@ -58,10 +58,10 @@ let phone = {
 - DOM Manipulation
 - Dynamic HTML
 
-## 📸 Sample Output
+##  Sample Output
 
 ```
-📱 Phone Showcase
+ Phone Showcase
 
 Brand      Apple
 Model      iPhone 16
@@ -72,7 +72,7 @@ Price      ₦1,800,000
 
 ---
 
-## 🚀 Part of My 30 Days JavaScript Bootcamp
+##  Part of My 30 Days JavaScript Bootcamp
 
 **Day 17 Complete ✅**
 

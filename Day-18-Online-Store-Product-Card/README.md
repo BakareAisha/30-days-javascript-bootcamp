@@ -1,10 +1,10 @@
-# 🛍️ Day 18 - Online Store Product Card
+#  Day 18 - Online Store Product Card
 
-## 📖 Project Overview
+##  Project Overview
 
 This project builds on JavaScript Objects by demonstrating how to update existing object properties and add new ones. It displays a product card for an online store using dynamic HTML.
 
-## ✨ Features
+##  Features
 
 - Creates a product object
 - Updates an existing property (`price`)
@@ -12,7 +12,7 @@ This project builds on JavaScript Objects by demonstrating how to update existin
 - Displays product information dynamically
 - Uses object properties with dot notation
 
-## 🧠 What I Learned
+##  What I Learned
 
 - How to update object properties
 - How to add new properties to an object
@@ -20,13 +20,13 @@ This project builds on JavaScript Objects by demonstrating how to update existin
 - How to display object data with template literals
 - How to build a product card using dynamic HTML
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (ES6)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Day-18-Online-Store-Product-Card/
@@ -36,7 +36,7 @@ Day-18-Online-Store-Product-Card/
 │── README.md
 ```
 
-## 🎯 Skills Practiced
+##  Skills Practiced
 
 - JavaScript Objects
 - Object Properties
@@ -45,10 +45,10 @@ Day-18-Online-Store-Product-Card/
 - Template Literals
 - DOM Manipulation
 
-## 📸 Sample Output
+##  Sample Output
 
 ```
-🛍️ Slot Store
+ Slot Store
 
 Name: Wireless Headphones
 Brand: Sony
@@ -61,6 +61,6 @@ Color: Black
 
 ---
 
-## 🚀 Part of My 30 Days JavaScript Bootcamp
+## Part of My 30 Days JavaScript Bootcamp
 
 **Day 18 Complete ✅**

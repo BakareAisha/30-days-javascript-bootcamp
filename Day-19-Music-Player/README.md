@@ -1,10 +1,10 @@
-# 🎵 Day 19 - Music Player (Object Methods)
+#  Day 19 - Music Player (Object Methods)
 
-## 📖 Project Overview
+##  Project Overview
 
 This project introduces **Object Methods** in JavaScript. It demonstrates how an object can store both information (properties) and actions (methods). The application displays song details and uses a method to show the current playback status.
 
-## ✨ Features
+##  Features
 
 - Creates a music object
 - Stores song information using object properties
@@ -13,7 +13,7 @@ This project introduces **Object Methods** in JavaScript. It demonstrates how an
 - Calls the method using `music.play()`
 - Displays song details dynamically with `innerHTML`
 
-## 🧠 What I Learned
+##  What I Learned
 
 - The difference between properties and methods
 - How to create methods inside an object
@@ -21,13 +21,13 @@ This project introduces **Object Methods** in JavaScript. It demonstrates how an
 - How to combine object data and functions
 - How to display object information dynamically
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (ES6)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Day-19-Music-Player/
@@ -37,7 +37,7 @@ Day-19-Music-Player/
 │── README.md
 ```
 
-## 🎯 Skills Practiced
+##  Skills Practiced
 
 - JavaScript Objects
 - Object Properties
@@ -46,10 +46,10 @@ Day-19-Music-Player/
 - Template Literals
 - DOM Manipulation
 
-## 📸 Sample Output
+##  Sample Output
 
 ```
-🎵 Music Player
+ Music Player
 
 Title: Die With A Smile
 Artist: Lady Gaga & Bruno Mars
@@ -58,6 +58,6 @@ Duration: 4:11
 
 ---
 
-## 🚀 Part of My 30 Days JavaScript Bootcamp
+##  Part of My 30 Days JavaScript Bootcamp
 
 **Day 19 Complete ✅**

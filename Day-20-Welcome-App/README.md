@@ -1,10 +1,10 @@
-# 👋 Day 20 - Welcome App (User Input)
+#  Day 20 - Welcome App (User Input)
 
-## 📖 Project Overview
+##  Project Overview
 
 This project introduces user input in JavaScript. The application allows a user to type their name into an input field, click a button, and receive a personalized welcome message.
 
-## ✨ Features
+##  Features
 
 - Accepts user input through a text field
 - Uses a button to trigger a JavaScript function
@@ -12,7 +12,7 @@ This project introduces user input in JavaScript. The application allows a user 
 - Displays a personalized welcome message
 - Updates the webpage dynamically using `innerHTML`
 
-## 🧠 What I Learned
+##  What I Learned
 
 - How to create an HTML input field
 - How to create a button with the `onclick` event
@@ -21,13 +21,13 @@ This project introduces user input in JavaScript. The application allows a user 
 - How to display dynamic content with template literals
 - The difference between referencing a function (`showName`) and calling a function (`showName()`)
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (ES6)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Day-20-Welcome-App/
@@ -37,7 +37,7 @@ Day-20-Welcome-App/
 │── README.md
 ```
 
-## 🎯 Skills Practiced
+##  Skills Practiced
 
 - User Input
 - DOM Manipulation
@@ -46,7 +46,7 @@ Day-20-Welcome-App/
 - Template Literals
 - Dynamic HTML
 
-## 📸 Sample Output
+##  Sample Output
 
 ```
  Welcome!
@@ -56,6 +56,6 @@ Hello usersname!
 Have a wonderful day!
 ```
 
-## 🚀 Part of My 30 Days JavaScript Bootcamp
+##  Part of My 30 Days JavaScript Bootcamp
 
-**Day 20 Complete ✅**
+**Day 20 Complete **

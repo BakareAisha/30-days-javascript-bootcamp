@@ -1,10 +1,10 @@
-# ☕ Day 24 - Café Order Status Manager
+#  Day 24 - Café Order Status Manager
 
-## 📖 Project Overview
+##  Project Overview
 
 This project is an interactive Café Order Manager that allows staff to add, update, and remove customer orders. Each order is stored as an object and displayed dynamically on the page.
 
-## ✨ Features
+##  Features
 
 - Add new café orders
 - Prevent empty submissions
@@ -15,7 +15,7 @@ This project is an interactive Café Order Manager that allows staff to add, upd
 - Remove an order
 - Automatically refresh the displayed list after every action
 
-## 🧠 What I Learned
+##  What I Learned
 
 - Updating object properties
 - Accessing objects inside arrays
@@ -24,13 +24,13 @@ This project is an interactive Café Order Manager that allows staff to add, upd
 - Dynamic DOM manipulation
 - Building interactive CRUD applications
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (ES6)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Day-24-Cafe-Order-Status-Manager/
@@ -40,7 +40,7 @@ Day-24-Cafe-Order-Status-Manager/
 │── README.md
 ```
 
-## 🚀 Skills Practiced
+##  Skills Practiced
 
 - Arrays
 - Objects
@@ -52,10 +52,10 @@ Day-24-Cafe-Order-Status-Manager/
 - splice()
 - Updating Object Properties
 
-## 📸 Sample Output
+##  Sample Output
 
 ```
-☕ Café Order 1
+ Café Order 1
 
 Drink: Latte
 Size: Medium
@@ -67,6 +67,6 @@ Status: In Progress
 [Remove]
 ```
 
-## 🎯 Milestone
+##  Milestone
 
 This project introduced the **Update** operation in CRUD by allowing users to change an order's status without deleting or recreating it.

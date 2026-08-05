@@ -1,10 +1,10 @@
-# 🛒 Day 14 - Grocery List Manager
+#  Day 14 - Grocery List Manager
 
-## 📖 Project Overview
+##  Project Overview
 
 This project expands on JavaScript arrays by introducing array methods. It demonstrates how to add and remove items from an array using `push()` and `pop()`, then dynamically displays the updated grocery list using a `for` loop.
 
-## ✨ Features
+##  Features
 
 - Creates a grocery list using an array
 - Adds new grocery items with `push()`
@@ -12,7 +12,7 @@ This project expands on JavaScript arrays by introducing array methods. It demon
 - Displays the updated list dynamically
 - Numbers each grocery item automatically
 
-## 🧠 What I Learned
+##  What I Learned
 
 - How to use `push()` to add items to an array
 - How to use `pop()` to remove the last item
@@ -20,13 +20,13 @@ This project expands on JavaScript arrays by introducing array methods. It demon
 - How to combine array methods with loops
 - How to generate HTML dynamically using `output +=`
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (ES6)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Day-14-Grocery-List-Manager/
@@ -36,7 +36,7 @@ Day-14-Grocery-List-Manager/
 │── README.md
 ```
 
-## 🎯 Skills Practiced
+##  Skills Practiced
 
 - Arrays
 - Array Methods (`push()` & `pop()`)
@@ -46,10 +46,10 @@ Day-14-Grocery-List-Manager/
 - DOM Manipulation
 - Dynamic HTML Generation
 
-## 📸 Output
+##  Output
 
 ```
-🛒 Grocery List Manager
+ Grocery List Manager
 
 1. Rice
 2. Bread
@@ -59,6 +59,6 @@ Day-14-Grocery-List-Manager/
 
 ---
 
-### 🚀 Part of My 30 Days JavaScript Bootcamp
+###  Part of My 30 Days JavaScript Bootcamp
 
 **Day 14 Complete ✅**

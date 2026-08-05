@@ -1,10 +1,10 @@
-# 📅 Day 7 - Mini Calendar (Nested Loops)
+#  Day 7 - Mini Calendar (Nested Loops)
 
-## 📖 Project Overview
+##  Project Overview
 
 This project demonstrates how to use **nested `for` loops** in JavaScript to generate a simple monthly calendar layout. The outer loop creates the weeks, while the inner loop generates the days for each week dynamically.
 
-## ✨ Features
+##  Features
 
 - Displays 4 weeks
 - Displays 7 days for each week
@@ -12,7 +12,7 @@ This project demonstrates how to use **nested `for` loops** in JavaScript to gen
 - Clean and responsive user interface
 - Styled using CSS
 
-## 🧠 What I Learned
+##  What I Learned
 
 - How nested `for` loops work
 - The difference between an outer loop and an inner loop
@@ -20,13 +20,13 @@ This project demonstrates how to use **nested `for` loops** in JavaScript to gen
 - How to build dynamic content with `innerHTML`
 - How to organize JavaScript code for better readability
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (ES6)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Day-07-Mini-Calendar/
@@ -36,11 +36,11 @@ Day-07-Mini-Calendar/
 │── README.md
 ```
 
-## 📸 Preview
+##  Preview
 
 A simple monthly calendar displaying four weeks, with each week containing seven days generated dynamically using nested loops.
 
-## 🎯 Skills Practiced
+##  Skills Practiced
 
 - Nested Loops
 - Variables
@@ -50,4 +50,4 @@ A simple monthly calendar displaying four weeks, with each week containing seven
 
 ---
 
-### 🚀 Part of My **30 Days JavaScript Bootcamp**
+###  Part of My **30 Days JavaScript Bootcamp**

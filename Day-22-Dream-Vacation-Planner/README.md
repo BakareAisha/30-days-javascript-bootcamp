@@ -1,10 +1,10 @@
-# 🌍 Review Project - Dream Vacation Planner
+#  Review Project - Dream Vacation Planner
 
-## 📖 Project Overview
+##  Project Overview
 
 This project is a simple travel planner that allows users to create a list of dream travel destinations. Each destination is stored as an object containing additional information such as the date it was added and its travel status.
 
-## ✨ Features
+##  Features
 
 - Add a new travel destination
 - Prevent empty submissions
@@ -13,7 +13,7 @@ This project is a simple travel planner that allows users to create a list of dr
 - Display the travel status for every destination
 - Dynamically update the destination list
 
-## 🧠 What I Learned
+##  What I Learned
 
 - Working with arrays of objects
 - Getting user input using `.value`
@@ -23,13 +23,13 @@ This project is a simple travel planner that allows users to create a list of dr
 - Accessing object properties using dot notation
 - Updating the DOM with `innerHTML`
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (ES6)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Review-Project-Dream-Vacation-Planner/
@@ -39,7 +39,7 @@ Review-Project-Dream-Vacation-Planner/
 │── README.md
 ```
 
-## 🚀 Skills Practiced
+##  Skills Practiced
 
 - Arrays
 - Objects
@@ -49,22 +49,22 @@ Review-Project-Dream-Vacation-Planner/
 - Object Properties
 - DOM Manipulation
 
-## 📸 Sample Output
+##  Sample Output
 
 ```
-🌍 Dream Vacation Planner
+ Dream Vacation Planner
 
 1. Japan
-   📅 21/07/2026
-   🧳 Planned
+    21/07/2026
+    Planned
 
 2. Maldives
-   📅 21/07/2026
-   🧳 Planned
+    21/07/2026
+    Planned
 ```
 
 ---
 
-## 🎯 Milestone
+##  Milestone
 
 This review project combines concepts learned from Days 15–21, including arrays, objects, loops, functions, and user input to create an interactive JavaScript application.
