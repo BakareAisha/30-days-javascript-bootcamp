@@ -1,10 +1,10 @@
-# 🚀 30 Days of JavaScript Bootcamp
+#  30 Days of JavaScript Bootcamp
 
-Welcome to my **30 Days of JavaScript Bootcamp**! 👋
+Welcome to my **30 Days of JavaScript Bootcamp**! 
 
 This repository documents my journey of learning JavaScript from the fundamentals to more advanced concepts by building one project every day.
 
-## 🎯 Goals
+##  Goals
 
 - Learn JavaScript from beginner to advanced.
 - Build 30 hands-on JavaScript projects.
@@ -12,13 +12,13 @@ This repository documents my journey of learning JavaScript from the fundamental
 - Write clean, readable, and maintainable code.
 - Build a strong GitHub portfolio.
 
-## 🛠️ Technologies
+##  Technologies
 
 - HTML5
 - CSS3
 - JavaScript (ES6)
 
-## 📅 Bootcamp Progress
+##  Bootcamp Progress
 
 | Day | Project | Status |
 |-----|---------|--------|
@@ -32,7 +32,7 @@ This repository documents my journey of learning JavaScript from the fundamental
 | ... | ... | ... |
 | 30 | Final JavaScript Project | ⏳ Coming Soon |
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 30-days-javascript-bootcamp/
@@ -44,7 +44,7 @@ This repository documents my journey of learning JavaScript from the fundamental
 └── ...
 ```
 
-## 🌱 What I'm Learning
+##  What I'm Learning
 
 Throughout this bootcamp, I'm practicing:
 
@@ -64,7 +64,7 @@ Throughout this bootcamp, I'm practicing:
 - ES6 Features
 - And more...
 
-## 👩🏽‍💻 Author
+##  Author
 
 **Aishat Bakare**
 
@@ -72,4 +72,4 @@ Aspiring Software Engineer | JavaScript Learner
 
 ---
 
-⭐ Thanks for visiting my repository! Feel free to follow my progress as I complete each day's challenge.
+ Thanks for visiting my repository! Feel free to follow my progress as I complete each day's challenge.
