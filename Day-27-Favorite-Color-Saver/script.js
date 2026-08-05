@@ -1,5 +1,5 @@
 
-let colors = JSON.parse(localStorage.getItem("colors") || "[]");
+let colors = JSON.parse(localStorage.getItem("colors")) || [];
 
 function saveColor() {
     const color = document.getElementById('colorInput').value.trim();
