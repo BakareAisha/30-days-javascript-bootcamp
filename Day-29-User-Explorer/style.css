@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background: #f4f6f9;
+    min-height: 100vh;
+    padding: 40px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 30px;
+}
+
+input {
+    display: block;
+    width: 350px;
+    max-width: 100%;
+    margin: 0 auto 30px;
+    padding: 14px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    font-size: 16px;
+}
+
+input:focus {
+    outline: none;
+    border-color: #4a90e2;
+}
+
+#container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+    max-width: 1000px;
+    margin: auto;
+}
+
+
+/* USER CARD */
+
+.user {
+    background: white;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+    transition: 0.3s ease;
+    border-top: 5px solid #4a90e2;
+}
+
+
+.user:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 25px rgba(0,0,0,0.15);
+}
+
+
+.user h3 {
+    color: #333;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+
+.user p {
+    color: #666;
+    margin: 8px 0;
+    font-size: 15px;
+}
+
+
+.user p::before {
+    color: #4a90e2;
+}
